@@ -3,8 +3,8 @@ from azure.core.credentials import AzureKeyCredential
 from azure.ai.contentsafety.models import AnalyzeTextOptions
 
 # WKLEJ SWOJE DANE
-endpoint = "https://contentsafety-compliance.cognitiveservices.azure.com/"
-key = "7W6CF73Hewov0AZgKU3Rgtjol1mZ6bLsjtjkrCPFpnzEOuUzyDaBJQQJ99BKAC5RqLJXJ3w3AAAHACOGjVJX"
+endpoint = 
+key = 
 
 # Test połączenia
 def test_content_safety():
