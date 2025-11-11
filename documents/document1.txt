@@ -1,0 +1,121 @@
+════════════════════════════════════════════════════════════
+                    CURRICULUM VITAE
+════════════════════════════════════════════════════════════
+
+DANE OSOBOWE
+────────────────────────────────────────────────────────────
+Imię i nazwisko:    Jan Kowalski
+Data urodzenia:     15 stycznia 1990
+PESEL:              90011512345
+Miejsce urodzenia:  Warszawa
+
+DANE KONTAKTOWE
+────────────────────────────────────────────────────────────
+Adres:              ul. Kwiatowa 15/3
+                    00-001 Warszawa
+                    Polska
+
+Telefon komórkowy:  +48 123 456 789
+Telefon stacjonarny: 22 123 45 67
+Email:              jan.kowalski@example.com
+LinkedIn:           linkedin.com/in/jan-kowalski
+
+DANE BANKOWE (do przelewu wynagrodzenia)
+────────────────────────────────────────────────────────────
+Numer rachunku:     12 3456 7890 1234 5678 9012 3456
+Bank:               PKO BP S.A.
+
+WYKSZTAŁCENIE
+────────────────────────────────────────────────────────────
+2008 - 2013
+UNIWERSYTET WARSZAWSKI
+Wydział Matematyki, Informatyki i Mechaniki
+Kierunek: Informatyka, Specjalizacja: Sztuczna Inteligencja
+Tytuł: Magister inżynier
+Praca dyplomowa: "Zastosowanie uczenia maszynowego 
+                  w systemach rekomendacyjnych"
+
+2004 - 2008
+XV LICEUM OGÓLNOKSZTAŁCĄCE im. Narcyzy Żmichowskiej
+Profil matematyczno-fizyczny
+Matura: rozszerzona matematyka, informatyka, język angielski
+
+DOŚWIADCZENIE ZAWODOWE
+────────────────────────────────────────────────────────────
+03.2020 - obecnie
+SENIOR SOFTWARE ENGINEER
+XYZ Technology Solutions Sp. z o.o.
+ul. Marszałkowska 100, 00-026 Warszawa
+NIP firmy: 5213654127
+
+Obowiązki:
+- Projektowanie i implementacja systemów AI/ML
+- Prowadzenie zespołu 5 programistów
+- Współpraca z klientami zagranicznymi
+- Kod review i mentoring juniorów
+
+Kontakt do przełożonego:
+Anna Nowak, Team Lead
+Tel: 22 987 65 43
+Email: anna.nowak@xyz-tech.pl
+
+────────────────────────────────────────────────────────────
+01.2013 - 02.2020
+SOFTWARE DEVELOPER
+ABC Software House S.A.
+ul. Żelazna 51/53, 00-841 Warszawa
+
+Kontakt do przełożonego:
+Piotr Wiśniewski, CTO
+Tel: +48 600 700 800
+Email: p.wisniewski@abc-soft.com
+PESEL: 75032198765
+
+UMIEJĘTNOŚCI TECHNICZNE
+────────────────────────────────────────────────────────────
+Języki programowania:
+- Python (zaawansowany)
+- JavaScript/TypeScript (zaawansowany)
+- Java (średniozaawansowany)
+- SQL (zaawansowany)
+
+Technologie AI/ML:
+- TensorFlow, PyTorch, scikit-learn
+- Azure OpenAI, Azure AI Services
+- NLP, Computer Vision
+- MLOps (MLflow, Azure ML)
+
+Cloud & DevOps:
+- Azure (certyfikat AZ-900)
+- Docker, Kubernetes
+- CI/CD (GitHub Actions, Azure DevOps)
+
+JĘZYKI OBCE
+────────────────────────────────────────────────────────────
+- Angielski - C1 (certyfikat CAE)
+- Niemiecki - B1
+- Polski - język ojczysty
+
+CERTYFIKATY
+────────────────────────────────────────────────────────────
+- Microsoft Azure AI Engineer Associate (AI-102)
+  Numer certyfikatu: AI102-2024-JK-15012024
+  Data wydania: 15.01.2024
+
+- Microsoft Azure Fundamentals (AZ-900)
+  Numer certyfikatu: AZ900-2023-JK-05062023
+  Data wydania: 05.06.2023
+
+HOBBY I ZAINTERESOWANIA
+────────────────────────────────────────────────────────────
+- Sztuczna inteligencja i uczenie maszynowe
+- Fotografia (Instagram: @jan.kowalski.photo)
+- Bieganie (ukończone maratony: Warszawa 2019, Berlin 2022)
+- Szachy (członek Warszawskiego Klubu Szachowego)
+
+DODATKOWE INFORMACJE
+────────────────────────────────────────────────────────────
+Prawo jazdy:         Kategoria B
+Stan cywilny:        Kawaler
+Gotowość do podróży: Tak
+Pre

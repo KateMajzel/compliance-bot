@@ -1,0 +1,200 @@
+[
+  {
+    "document": "document1.txt",
+    "result": {
+      "pii_found": true,
+      "pii_items": [
+        {
+          "type": "name",
+          "value": "Jan Kowalski",
+          "confidence": "high",
+          "position": "Imię i nazwisko: Jan Kowalski"
+        },
+        {
+          "type": "PESEL",
+          "value": "90011512345",
+          "confidence": "high",
+          "position": "PESEL: 90011512345"
+        },
+        {
+          "type": "address",
+          "value": "ul. Kwiatowa 15/3, 00-001 Warszawa, Polska",
+          "confidence": "high",
+          "position": "Adres: ul. Kwiatowa 15/3, 00-001 Warszawa, Polska"
+        },
+        {
+          "type": "phone_number",
+          "value": "+48 123 456 789",
+          "confidence": "high",
+          "position": "Telefon komórkowy: +48 123 456 789"
+        },
+        {
+          "type": "phone_number",
+          "value": "22 123 45 67",
+          "confidence": "high",
+          "position": "Telefon stacjonarny: 22 123 45 67"
+        },
+        {
+          "type": "email",
+          "value": "jan.kowalski@example.com",
+          "confidence": "high",
+          "position": "Email: jan.kowalski@example.com"
+        },
+        {
+          "type": "bank_account",
+          "value": "12 3456 7890 1234 5678 9012 3456",
+          "confidence": "high",
+          "position": "Numer rachunku: 12 3456 7890 1234 5678 9012 3456"
+        },
+        {
+          "type": "name",
+          "value": "Anna Nowak",
+          "confidence": "high",
+          "position": "Kontakt do przełożonego: Anna Nowak"
+        },
+        {
+          "type": "phone_number",
+          "value": "22 987 65 43",
+          "confidence": "high",
+          "position": "Tel: 22 987 65 43"
+        },
+        {
+          "type": "email",
+          "value": "anna.nowak@xyz-tech.pl",
+          "confidence": "high",
+          "position": "Email: anna.nowak@xyz-tech.pl"
+        },
+        {
+          "type": "name",
+          "value": "Piotr Wiśniewski",
+          "confidence": "high",
+          "position": "Kontakt do przełożonego: Piotr Wiśniewski"
+        },
+        {
+          "type": "phone_number",
+          "value": "+48 600 700 800",
+          "confidence": "high",
+          "position": "Tel: +48 600 700 800"
+        },
+        {
+          "type": "email",
+          "value": "p.wisniewski@abc-soft.com",
+          "confidence": "high",
+          "position": "Email: p.wisniewski@abc-soft.com"
+        },
+        {
+          "type": "PESEL",
+          "value": "75032198765",
+          "confidence": "high",
+          "position": "PESEL: 75032198765"
+        },
+        {
+          "type": "NIP",
+          "value": "5213654127",
+          "confidence": "high",
+          "position": "NIP firmy: 5213654127"
+        },
+        {
+          "type": "certificate_number",
+          "value": "AI102-2024-JK-15012024",
+          "confidence": "medium",
+          "position": "Numer certyfikatu: AI102-2024-JK-15012024"
+        },
+        {
+          "type": "certificate_number",
+          "value": "AZ900-2023-JK-05062023",
+          "confidence": "medium",
+          "position": "Numer certyfikatu: AZ900-2023-JK-05062023"
+        },
+        {
+          "type": "social_media",
+          "value": "linkedin.com/in/jan-kowalski",
+          "confidence": "medium",
+          "position": "LinkedIn: linkedin.com/in/jan-kowalski"
+        },
+        {
+          "type": "social_media",
+          "value": "@jan.kowalski.photo",
+          "confidence": "medium",
+          "position": "Instagram: @jan.kowalski.photo"
+        }
+      ],
+      "risk_level": "high",
+      "recommendations": [
+        "Remove or anonymize sensitive data such as PESEL, phone numbers, and bank account details before sharing publicly.",
+        "Limit access to this document to authorized personnel only.",
+        "Encrypt the document if it needs to be transmitted electronically.",
+        "Ensure compliance with RODO by obtaining explicit consent for processing personal data."
+      ]
+    }
+  },
+  {
+    "document": "document2.txt",
+    "result": {
+      "pii_found": true,
+      "pii_items": [
+        {
+          "type": "name",
+          "value": "Anna Nowak",
+          "confidence": "high",
+          "position": "Zleceniobiorcą: Anna Nowak"
+        },
+        {
+          "type": "PESEL",
+          "value": "85020298765",
+          "confidence": "high",
+          "position": "PESEL: 85020298765"
+        },
+        {
+          "type": "address",
+          "value": "ul. Polna 8, 30-001 Kraków",
+          "confidence": "high",
+          "position": "Adres: ul. Polna 8, 30-001 Kraków"
+        },
+        {
+          "type": "phone_number",
+          "value": "600 700 800",
+          "confidence": "high",
+          "position": "Telefon: 600 700 800"
+        },
+        {
+          "type": "email",
+          "value": "anna.nowak@email.pl",
+          "confidence": "high",
+          "position": "Email: anna.nowak@email.pl"
+        },
+        {
+          "type": "bank_account_number",
+          "value": "98 7654 3210 9876 5432 1098 7654",
+          "confidence": "high",
+          "position": "Numer rachunku bankowego: 98 7654 3210 9876 5432 1098 7654"
+        },
+        {
+          "type": "NIP",
+          "value": "1234567890",
+          "confidence": "high",
+          "position": "NIP: 1234567890"
+        }
+      ],
+      "risk_level": "high",
+      "recommendations": [
+        "Zanonimizuj dane osobowe przed udostępnieniem lub publikacją dokumentu.",
+        "Przechowuj dokument w sposób zabezpieczony, np. w zaszyfrowanym pliku.",
+        "Zapewnij dostęp do dokumentu wyłącznie osobom upoważnionym.",
+        "Rozważ zastosowanie pseudonimizacji dla danych osobowych w celu ograniczenia ryzyka naruszenia prywatności."
+      ]
+    }
+  },
+  {
+    "document": "document3.txt",
+    "result": {
+      "pii_found": false,
+      "pii_items": [],
+      "risk_level": "low",
+      "recommendations": [
+        "Dokument nie zawiera danych osobowych (PII), jednak należy upewnić się, że polityka bezpieczeństwa informacji jest zgodna z RODO.",
+        "Zaleca się regularne przeglądy dokumentów organizacyjnych w celu identyfikacji potencjalnych danych osobowych i ich odpowiedniego zabezpieczenia."
+      ]
+    }
+  }
+]

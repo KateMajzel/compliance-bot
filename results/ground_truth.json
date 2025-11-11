@@ -1,0 +1,101 @@
+{
+  "document1.txt": {
+    "expected_pii": [
+      {
+        "type": "Imię i nazwisko",
+        "value": "Jan Kowalski"
+      },
+      {
+        "type": "PESEL",
+        "value": "90010112345"
+      },
+      {
+        "type": "Telefon",
+        "value": "+48 123 456 789"
+      },
+      {
+        "type": "Email",
+        "value": "jan.kowalski@example.com"
+      },
+      {
+        "type": "Adres",
+        "value": "ul. Kwiatowa 15/3, 00-001 Warszawa"
+      },
+      {
+        "type": "Numer konta",
+        "value": "12 3456 7890 1234 5678 9012 3456"
+      }
+    ],
+    "expected_count": 6,
+    "expected_risk": "high"
+  },
+  "document2.txt": {
+    "expected_pii": [
+      {
+        "type": "Imię i nazwisko",
+        "value": "Anna Nowak"
+      },
+      {
+        "type": "PESEL",
+        "value": "85020298765"
+      },
+      {
+        "type": "NIP",
+        "value": "1234567890"
+      },
+      {
+        "type": "Telefon",
+        "value": "600 700 800"
+      },
+      {
+        "type": "Email",
+        "value": "anna.nowak@email.pl"
+      },
+      {
+        "type": "Adres",
+        "value": "ul. Polna 8, 30-001 Kraków"
+      },
+      {
+        "type": "Numer konta",
+        "value": "98 7654 3210 9876 5432 1098 7654"
+      }
+    ],
+    "expected_count": 7,
+    "expected_risk": "high"
+  },
+  "document3.txt": {
+    "expected_pii": [],
+    "expected_count": 0,
+    "expected_risk": "low"
+  },
+  "document4.txt": {
+    "expected_pii": [
+      {
+        "type": "Imię i nazwisko",
+        "value": "Piotr Wiśniewski"
+      },
+      {
+        "type": "PESEL",
+        "value": "88030312345"
+      },
+      {
+        "type": "Imię i nazwisko",
+        "value": "Maria Zielińska"
+      },
+      {
+        "type": "PESEL",
+        "value": "92051298765"
+      },
+      {
+        "type": "Imię i nazwisko",
+        "value": "Tomasz Kamiński"
+      },
+      {
+        "type": "PESEL",
+        "value": "79120567890"
+      }
+    ],
+    "expected_count": 6,
+    "expected_risk": "high"
+  }
+}

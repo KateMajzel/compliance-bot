@@ -1,0 +1,16 @@
+POLITYKA BEZPIECZEŃSTWA INFORMACJI
+
+1. Cel dokumentu
+Niniejszy dokument określa zasady bezpieczeństwa informacji w organizacji.
+
+2. Zakres stosowania
+Polityka dotyczy wszystkich pracowników i współpracowników.
+
+3. Klasyfikacja informacji
+- Publiczne
+- Wewnętrzne
+- Poufne
+- Ściśle poufne
+
+4. Zasady przechowywania danych
+Dane należy przechowywać zgodnie z RODO.

@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Environment variables 
+.env
+config/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Results & Logs
+results/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+```
+
+**To chroni przed wrzuceniem:**
+- ❌ Kluczy API (z .env)
+- ❌ Venv (zbędne, każdy sobie zainstaluje)
+- ❌ Śmieci systemowych
+
+
+
+Struktura projektu:
+```
+ComplianceBot/
+├── 📄 requirements.txt      ← LISTA BIBLIOTEK
+├── 📄 .gitignore            ← Co ignorować w Git
+├── 📄 README.md             ← Dokumentacja
+├── 📄 test_api.py           ← Test API
+├── 📄 test_content_safety.py
+│
+├── 📁 venv/                 ← Środowisko (nie commituj do Git!)
+│
+├── 📁 config/
+│   └── .env                 ← Klucze (nie commituj!)
+│
+├── 📁 documents/
+│   ├── document1.txt
+│   ├── document2.txt
+│   └── ...
+│
+├── 📁 scripts/
+│   ├── pii_detector.py
+│   ├── evaluate_accuracy.py
+│   ├── demo.py
+│   └── api_endpoint.py
+│
+└── 📁 results/
+    ├── full_report.json
+    ├── evaluation_report.json
+    └── anonymized_*.txt

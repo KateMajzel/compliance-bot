@@ -1,0 +1,11 @@
+Transkrypcja rozmowy z dnia 10.11.2025
+
+Agent: Dzień dobry, w czym mogę pomóc?
+Klient: Witam, jestem Jan Kowalski, PESEL 85032145678, 
+chciałbym sprawdzić status mojego konta.
+Agent: Oczywiście, proszę podać adres zamieszkania.
+Klient: Ul. Kwiatowa 15/3, 40-123 Katowice
+Agent: A numer telefonu?
+Klient: 512 345 678
+Agent: Email?
+Klient: jan.kowalski@example.com
