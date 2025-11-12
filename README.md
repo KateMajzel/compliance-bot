@@ -11,7 +11,6 @@ System automatycznego wykrywania i anonimizacji danych osobowych (PII) zgodny z 
 - ✅ **Wykrywanie PII** - PESEL, email, telefon, adresy, numery kont
 - ✅ **Ocena ryzyka RODO** - automatyczna klasyfikacja poziomu zagrożenia
 - ✅ **Anonimizacja danych** - inteligentne zastępowanie wrażliwych informacji
-- ✅ **REST API** - gotowe do integracji z innymi systemami
 - ✅ **Raportowanie** - szczegółowe raporty compliance
 - ✅ **Web Interface** - Streamlit dashboard do testowania
 
