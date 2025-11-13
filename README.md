@@ -116,7 +116,7 @@ ComplianceBot/
 │   ├── api_endpoint.py   # REST API
 │   ├── evaluate_accuracy.py  # Metryki
 │   └── demo.py           # Demo prezentacyjne
-├── config/               # Konfiguracja (nie commituj .env!)
+├── config/               # Konfiguracja 
 ├── results/              # Wyniki analiz
 ├── streamlit_demo.py     # Web interface
 ├── requirements.txt      # Zależności
