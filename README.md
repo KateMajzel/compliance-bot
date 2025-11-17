@@ -1,4 +1,4 @@
-# 🔒 Compliance Bot - Wykrywacz Danych Wrażliwych
+# Compliance Bot - Wykrywacz Danych Wrażliwych
 
 System automatycznego wykrywania i anonimizacji danych osobowych (PII) zgodny z RODO.
 
@@ -6,7 +6,7 @@ System automatycznego wykrywania i anonimizacji danych osobowych (PII) zgodny z 
 ![Azure](https://img.shields.io/badge/Azure-OpenAI-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🎯 Funkcjonalności
+## Funkcjonalności
 
 - ✅ **Wykrywanie PII** - PESEL, email, telefon, adresy, numery kont
 - ✅ **Ocena ryzyka RODO** - automatyczna klasyfikacja poziomu zagrożenia
@@ -14,7 +14,7 @@ System automatycznego wykrywania i anonimizacji danych osobowych (PII) zgodny z 
 - ✅ **Raportowanie** - szczegółowe raporty compliance
 - ✅ **Web Interface** - Streamlit dashboard do testowania
 
-## 🛠️ Technologie
+## Technologie
 
 - **Azure OpenAI (GPT-4)** - wykrywanie danych osobowych
 - **Azure Content Safety** - moderacja treści
@@ -24,13 +24,13 @@ System automatycznego wykrywania i anonimizacji danych osobowych (PII) zgodny z 
 - **Streamlit** - web interface
 - **Prompt Flow** - workflow automation
 
-## 📊 Metryki Dokładności
+## Metryki Dokładności
 
 - **Precision**: ~95%
 - **Recall**: ~92%
 - **F1-Score**: ~93%
 
-## 🚀 Instalacja
+## Instalacja
 
 ### Wymagania
 
@@ -79,7 +79,7 @@ python scripts/api_endpoint.py
 streamlit run streamlit_demo.py
 ```
 
-## 📖 Użycie
+## Użycie
 
 ### Analiza dokumentu przez API
 ```python
@@ -107,7 +107,7 @@ streamlit run streamlit_demo.py
 
 Otwórz: http://localhost:8501
 
-## 📁 Struktura Projektu
+## Struktura Projektu
 ```
 ComplianceBot/
 ├── documents/              # Dokumenty testowe
@@ -123,7 +123,7 @@ ComplianceBot/
 └── README.md            # Dokumentacja
 ```
 
-## 🎯 Przypadki Użycia
+## Przypadki Użycia
 
 1. **HR & Rekrutacja** - skanowanie CV i aplikacji
 2. **Compliance** - audyt dokumentów pod kątem RODO
@@ -131,21 +131,19 @@ ComplianceBot/
 4. **Legal** - przegląd umów i kontraktów
 5. **Data Processing** - automatyczna anonimizacja
 
-## 🔒 Bezpieczeństwo
+## Bezpieczeństwo
 
 - Wszystkie dane przetwarzane lokalnie
 - Klucze API przechowywane w `.env` (nie commitowane)
 - Zgodność z RODO
 - Szyfrowanie połączeń (HTTPS w produkcji)
 
-## 🏆 Autor
+## Autor
 
 **Katarzyna Majzel-Pośpiech** 
 Projekt: LevelUp
 
-## 📄 Licencja
+## Licencja
 
 MIT License
 
-
-⭐ **Jeśli projekt Ci się podoba - zostaw gwiazdkę!** ⭐
