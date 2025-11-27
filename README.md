@@ -143,6 +143,21 @@ ComplianceBot/
 **Katarzyna Majzel-Pośpiech** 
 Projekt: LevelUp
 
+## Zrzuty z aplikacji
+<img width="2400" height="1151" alt="image" src="https://github.com/user-attachments/assets/b25f3485-3b1d-45d5-9276-e3463df4fa09" />
+
+<img width="2403" height="1184" alt="image" src="https://github.com/user-attachments/assets/4411e881-d184-4f20-873e-2fbfea453924" />
+
+<img width="2085" height="1269" alt="image" src="https://github.com/user-attachments/assets/98834a94-81f9-4603-9176-e442a90fe2b5" />
+
+oraz flow builder w Azure
+
+<img width="2400" height="1119" alt="image" src="https://github.com/user-attachments/assets/29f83c6e-6f61-45cd-8293-ae7f54da760c" />
+
+
+
+
+
 ## Licencja
 
 MIT License
