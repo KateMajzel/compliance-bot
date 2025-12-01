@@ -134,9 +134,8 @@ ComplianceBot/
 ## Bezpieczeństwo
 
 - Wszystkie dane przetwarzane lokalnie
-- Klucze API przechowywane w `.env` (nie commitowane)
+- Klucze API przechowywane w `.env` 
 - Zgodność z RODO
-- Szyfrowanie połączeń (HTTPS w produkcji)
 
 ## Autor
 
@@ -158,7 +157,6 @@ oraz flow builder w Azure
 
 
 
-## Licencja
 
 MIT License
 
