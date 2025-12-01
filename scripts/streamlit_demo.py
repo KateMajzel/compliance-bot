@@ -4,7 +4,6 @@ import json
 
 st.set_page_config(
     page_title="Compliance Bot",
-    page_icon="🔒",
     layout="wide"
 )
 
@@ -26,7 +25,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.title("🔒 Compliance Bot")
+st.title("Compliance Bot")
 st.markdown("### Wykrywacz Danych Wrażliwych")
 st.markdown("**LevelUp**")
 st.divider()
